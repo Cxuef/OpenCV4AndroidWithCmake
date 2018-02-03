@@ -16,3 +16,4 @@ update to OpenCV 3.20
 
 ## [Tutorial](http://blog.csdn.net/martin20150405/article/details/53284442)
 * About 10mins to configure.
+# OpenCV4AndroidWithCmake

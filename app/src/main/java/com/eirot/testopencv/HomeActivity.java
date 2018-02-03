@@ -1,4 +1,4 @@
-package com.martin.ads.testopencv;
+package com.eirot.testopencv;
 
 import android.Manifest;
 import android.content.Intent;
